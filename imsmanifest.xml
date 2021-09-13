@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5x4c2ZfmRBi_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">CANDOR Communication Skills_DEMO-JAYSON</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="CANDOR_Communication_Skills_DEMO-JAYSON_ORG">
+    <organization identifier="CANDOR_Communication_Skills_DEMO-JAYSON_ORG">
+      <title>CANDOR Communication Skills_DEMO-JAYSON</title>
+      <item identifier="CANDOR_Communication_Skills_SCO" isvisible="true" identifierref="__5x4c2ZfmRBi_course_id_RES">
+        <title>CANDOR Communication Skills_DEMO-JAYSON</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5x4c2ZfmRBi_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6Ssqjsgxksv_80_DX220_DY220_CX227_CY35.png" />
+      <file href="mobile/5bmuOS2wEbV_80_DX200_DY200_CX58_CY208.jpg" />
+      <file href="mobile/6lYn2p7Z9n7_80_DX1440_DY1440_CX1509_CY849.jpg" />
+      <file href="mobile/5gyrpYIb1lB_80_DX1182_DY1182_CX738_CY505.jpg" />
+      <file href="mobile/5gyrpYIb1lB_80_P_11_10_61_61_DX1182_DY1182_CX62_CY61.jpg" />
+      <file href="mobile/5gyrpYIb1lB_80_P_8_691_58_54_DX1182_DY1182_CX59_CY54.jpg" />
+      <file href="mobile/5gyrpYIb1lB_80_P_996_691_57_56_DX1182_DY1182_CX58_CY57.jpg" />
+      <file href="mobile/5gyrpYIb1lB_X_80_P_996_691_57_56_DX1182_DY1182_CX58_CY57.jpg" />
+      <file href="mobile/5gyrpYIb1lB_80_P_984_12_113_61_DX1182_DY1182_CX113_CY61.jpg" />
+      <file href="mobile/5r274qciIXM_80_DX1440_DY1440_CX1509_CY849.jpg" />
+      <file href="mobile/63Rqa4M0fUN_80_DX1440_DY1440_CX1509_CY849.jpg" />
+      <file href="mobile/5WN3gFKvopk_80_DX106_DY106_CX111_CY108.png" />
+      <file href="mobile/5si6uJ2koq9_80_DX92_DY92_CX96_CY88.png" />
+      <file href="mobile/6rQ5rBl1X7W_80_DX82_DY82_CX85_CY79.png" />
+      <file href="mobile/5rsCGBGKXBM_80_DX1440_DY1440_CX1509_CY849.jpg" />
+      <file href="mobile/61a4KRLOo1o_80_DX1440_DY1440_CX1509_CY849.jpg" />
+      <file href="mobile/5ys691nclyK_80_DX1440_DY1440_CX1509_CY849.jpg" />
+      <file href="mobile/6kas6adt6UL_80_DX56_DY56_CX58_CY58.png" />
+      <file href="mobile/5gMbXwFdksh_80_DX56_DY56_CX58_CY58.png" />
+      <file href="mobile/60XBPmWbiSK_80_DX1440_DY1440_CX1509_CY849.jpg" />
+      <file href="mobile/5ekZtxVUqjw_80_DX220_DY220_CX227_CY35.png" />
+      <file href="mobile/6cTH0g1J4Te_80_DX1440_DY1440_CX1509_CY849.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5d5q8Pqslk5.js" />
+      <file href="html5/data/js/64Vegy59fkh.js" />
+      <file href="html5/data/js/67oEtMZ8iPZ.js" />
+      <file href="html5/data/js/6EaxCUhaZK9.js" />
+      <file href="html5/data/js/6etYMbXHcQY.js" />
+      <file href="html5/data/js/6FqfHI8fSQV.js" />
+      <file href="html5/data/js/6L59brfApui.js" />
+      <file href="html5/data/js/6qxJOs1RLjh.js" />
+      <file href="html5/data/js/6Qz6LPMyhva.js" />
+      <file href="html5/data/js/6VU9o2SNF08.js" />
+      <file href="html5/data/js/6YiQ4bfoxUs.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
